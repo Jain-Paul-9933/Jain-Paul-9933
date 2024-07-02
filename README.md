@@ -8,7 +8,7 @@
 - 👀 I’m interested in Developing Web Appications using Django, React JS and Next JS
 - 🌱 I’m currently learning Mobile App Development using Flutter 
 - 💞️ I’m looking to collaborate on Web Application development 
-- 📫 How to reach me Gmail:- japs9933@gmail.com, Linkedln:- https://www.linkedin.com/in/jainpaul93/
+- 📫 How to reach me Gmail:- japs9933@gmail.com, Linkedln:- https://www.linkedin.com/in/jainpaul93/ , Ph:- +919207284416
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,c,cs,cpp,css,dart,django,bootstrap,nodejs,figma,flutter,git,github,githubactions,gmail,html,java,js,linkedin,mongodb,nextjs,nginx,npm,postgres,postman,py,react,sass,sentry,tailwind,ts,vercel,visualstudio,vscode,yarn&theme=dark)](https://skillicons.dev)
 
