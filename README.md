@@ -1,3 +1,4 @@
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 - 👋 Hi, I’m Jain Paul
 - 👀 I’m interested in Developing Web Appications using Django, React JS and Next JS
 - 🌱 I’m currently learning Mobile App Development using Flutter 
